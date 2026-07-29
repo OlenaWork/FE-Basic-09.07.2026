@@ -1,0 +1,28 @@
+*{
+margin:0 ;
+padding:0;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+
+  
+
+
+
+
+/* sel1 sel2 {} sel2 in sel1
+
+sel1 > sel2 {} sel2 in sel1 only as direct child
+
+sel1 + sel2 {} sel2 is next sibling on sel1 
+
+sel1 ~ sel2 {} sel2 is next after on sel1 on the same level
+
+*/
+  
