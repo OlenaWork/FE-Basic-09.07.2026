@@ -11,9 +11,15 @@ img{
     max-width: 100%;
 }
  input {
-    width: 100%;
+   width: 100%; 
  }
 
+ .login-footer {
+    height: 10px;
+    background-color:#46A358;
+ }
+
+ 
 
 
 /*-------------------- Login page start -----------------------------*/
