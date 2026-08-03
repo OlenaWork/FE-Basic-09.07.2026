@@ -1,0 +1,32 @@
+*{
+margin:0 ;
+padding:0;
+}
+
+a, a:hover{
+    text-decoration: none;
+}
+
+img{
+    max-width: 100%;
+}
+ input {
+   width: 100%; 
+ }
+
+ .login-footer {
+    height: 10px;
+    background-color:#46A358;
+ }
+
+ 
+
+
+/*-------------------- Login page start -----------------------------*/
+ .form-section {
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+ /*-------------------- Login page end -----------------------------*/
